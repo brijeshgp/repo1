@@ -2,4 +2,5 @@ git clone URL
 git push
 git add
 git commit
-git pull
+git pull -- This command pulls from remote repo and merges
+git fetch -- Skips merge
