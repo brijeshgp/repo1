@@ -6,3 +6,4 @@ git pull -- This command pulls from remote repo and merges
 git fetch -- Skips merge
 git fetch --all
 git reset --hard origin/master -- Resets all the changes and overwrites
+git push --set-upstream origin abranch  ----Creates the new remote branch
